@@ -17,5 +17,8 @@ transformers
 openai-whisper
 ffmpeg-python
 tiktoken
+sentence-transformers
+torch
+
 
 
