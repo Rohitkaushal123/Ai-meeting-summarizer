@@ -17,5 +17,4 @@ transformers
 openai-whisper
 ffmpeg-python
 tiktoken
-langchain-embeddings
 langchain-llms
